@@ -1,5 +1,7 @@
 # POTENCI
-random coil chemical shift predictor (JT Nielsen &amp; FAA Mulder, 2018)
+random coil chemical shift predictor 
+If you use POTENCI, please cite JT Nielsen &amp; FAA Mulder, J Biomol NMR 70(3):141-165 (2018)
+reference to our work is kind and fair, and will help sustain funding to our lab
 
 #########POTENCI###########
     #requires: python2.x with numpy and scipy
