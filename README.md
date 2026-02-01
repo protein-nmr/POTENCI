@@ -1,4 +1,4 @@
-# POTENCI
+# POTENCI (python3 version available from Feb 2026)
 Random Coil Chemical Shift predictor from sequence
 
 If you use POTENCI, please cite JT Nielsen &amp; FAA Mulder, J Biomol NMR 70(3):141-165 (2018)
